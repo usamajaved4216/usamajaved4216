@@ -1,7 +1,7 @@
 ![logo](https://github.com/usamajaved4216/usamajaved4216/blob/main/Dark%20Neon%20.png)
  <h1 align="center">Hi 👋, I'm usama javed</h1>
 <h3 align="center">A passionate web and mob app developer from Pakistan</h3>
-<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400px" alt="coding">
+<img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952cyqc3k1gup2erjs47d7wfxhq34pznz9l797dekdq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamajaved4216&label=Profile%20views&color=0e75b6&style=flat" alt="usamajaved4216" /> </p>
 
